@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'TeimerSemiBold';
+	src: url('TeimerSemiBold.eot');
+	src: url('TeimerSemiBold.eot?#iefix') format('embedded-opentype'),
+		url('TeimerSemiBold.woff') format('woff'),
+		url('TeimerSemiBold.ttf') format('truetype');
+}

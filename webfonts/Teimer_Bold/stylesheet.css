@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'Teimer Bold';
+	src: url('Teimer-Bold.eot');
+	src: url('Teimer-Bold.eot?#iefix') format('embedded-opentype'),
+		url('Teimer-Bold.woff') format('woff'),
+		url('Teimer-Bold.ttf') format('truetype');
+}
